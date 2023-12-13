@@ -40,4 +40,3 @@ function tenSecondTimer() {
   generateRandomCard();
 }
 setTimeout(tenSecondTimer, 10000);
-

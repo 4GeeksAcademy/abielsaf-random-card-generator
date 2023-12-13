@@ -41,10 +41,3 @@ function tenSecondTimer() {
 }
 setTimeout(tenSecondTimer, 10000);
 
-// function changeSize() {
-//   let cardWidthInput = document.getElementById("card-width").value + "px";
-//   let cardHeightInput = document.getElementById("card-height").value + "px";
-//   let card = document.querySelector(".card");
-//   card.style.width = cardWidthInput;
-//   card.style.height = cardHeightInput;
-// }

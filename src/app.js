@@ -39,4 +39,4 @@ button.addEventListener("click", function() {
 function tenSecondTimer() {
   generateRandomCard();
 }
-setTimeout(tenSecondTimer, 10000);
+setInterval(tenSecondTimer, 10000);
